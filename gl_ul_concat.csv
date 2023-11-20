@@ -1,4 +1,4 @@
-Pokemon,Score,Dex,Type 1,Type 2,Attack,Defense,Stamina,Stat Product,Level,CP,Fast Move,Charged Move 1,Charged Move 2,Charged Move 1 Count,Charged Move 2 Count,Buddy Distance,Charged Move Cost,league
+pokemon,score,dex,type_1,type_2,attack,defense,stamina,stat_product,level,cp,fast_move,charged_move_1,charged_move_2,charged_move_1_count,charged_move_2_count,buddy_distance,charged_move_cost,league
 Medicham,96.3,308,fighting,psychic,106.9,139.5,141,2102958,49.0,1500,Counter,Ice Punch,Psychic,6,8,3,50000,great
 Carbink,96.1,703,rock,fairy,84.9,247.9,126,2650835,50.0,1500,Rock Throw,Rock Slide,Moonblast,9,12,5,75000,great
 Lickitung,94.9,108,normal,none,98.3,126.9,183,2282878,50.0,1498,Lick,Body Slam,Power Whip,12,17,3,50000,great
